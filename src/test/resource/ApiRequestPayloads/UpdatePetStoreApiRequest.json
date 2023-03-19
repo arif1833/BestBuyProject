@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "category": {
+    "id": 10,
+    "name": "Arif"
+  },
+  "name": "Mohammed",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 8,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
